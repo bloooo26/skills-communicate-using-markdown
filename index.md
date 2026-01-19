@@ -17,3 +17,7 @@ var myVar = "Hello, world!";
 ``` c#
 // hello this is a c# comment
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
