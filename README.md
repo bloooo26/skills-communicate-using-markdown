@@ -30,10 +30,6 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 1. Click **Merge pull request**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-# here are some more headers
-## here is an h2
-### and an h3
-
 <footer>
 
 <!--
